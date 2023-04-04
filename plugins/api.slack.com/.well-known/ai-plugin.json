@@ -1,0 +1,1 @@
+{"schema_version": "v1", "name_for_human": "", "name_for_model": "", "description_for_human": "", "description_for_model": "", "api": {"url": "https://api.slack.com/specs/openapi/ai-plugin.yaml"}, "auth": {"type": "none"}, "logo_url": "", "legal_info_url": "", "contact_email": ""}
